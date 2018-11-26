@@ -12,3 +12,7 @@ eventEmitter.on('received',()=>{
 eventEmitter.emit('connection');
 
 console.log('程序执行完毕');
+console.log('程序执行完毕');
+console.log('程序执行完毕');
+console.log('程序执行完毕');
+
